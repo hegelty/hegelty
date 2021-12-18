@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hegel</h1>
+<h1 align="center">Hi 👋, I'm hegelty</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hegelty&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
