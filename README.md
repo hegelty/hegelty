@@ -14,4 +14,4 @@
 
 ### PS:
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=skxodid0305)
-* [CodeUP](https://codeup.kr/userinfo.php?user=gbs17_skxodid) Ranked 96th(8th in school)
+* [CodeUP](https://codeup.kr/userinfo.php?user=gbs17_skxodid) Ranked 90th(1st in school)
