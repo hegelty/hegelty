@@ -1,7 +1,8 @@
 # Hi 👋, I'm hegelty ☀️
 
 ### About me:
-* 경기북과학고등학교 17기(GyeonggiBuk Science High School 17th) Student
+* GyeonggiBuk Science High School 17th
+* POSTECH Undergraduate Student
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hegelty&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
