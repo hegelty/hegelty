@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hegelty&langs_count=5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![WakaTime]](https://github-readme-stats.vercel.app/api/wakatime?username=hegelty&api_domain=wakapi.hegelty.me&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
 
 ### PS:
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=skxodid0305)
-* [CodeUP](https://codeup.kr/userinfo.php?user=gbs17_skxodid) Ranked 90th(1st in school)
